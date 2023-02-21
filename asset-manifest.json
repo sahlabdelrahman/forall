@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/forall/static/css/main.5d5dae2b.css",
+    "main.js": "/forall/static/js/main.e3c5b03b.js",
+    "static/media/imageOne.svg": "/forall/static/media/imageOne.15ad9ec49f8356e6b19873469050f8d5.svg",
+    "static/media/AppStore.svg": "/forall/static/media/AppStore.a97d77a0198c0fa4f4565492c0286d1f.svg",
+    "static/media/imageTwo.svg": "/forall/static/media/imageTwo.8a426944d26b8cf9273d01c464caea69.svg",
+    "static/media/Logo.svg": "/forall/static/media/Logo.83e63604f09a39cc754f110948550c27.svg",
+    "static/media/Instagram.svg": "/forall/static/media/Instagram.4a8ab87c53ebcfb341b46d79e5cb9782.svg",
+    "static/media/LinkedIn.svg": "/forall/static/media/LinkedIn.d05b67809469b37e328f7f4d59932382.svg",
+    "static/media/Twitter.svg": "/forall/static/media/Twitter.f01a2305d3b56b1bd7f8484005bfb1a4.svg",
+    "static/media/Facebook.svg": "/forall/static/media/Facebook.4b50ecd0061cb2105d8ccff278d56ca5.svg",
+    "index.html": "/forall/index.html",
+    "static/media/menu.svg": "/forall/static/media/menu.08b4efb10cc71ada43cfe902abfdaf9d.svg",
+    "static/media/NextButton.svg": "/forall/static/media/NextButton.c4e27abb1c0b7dc75bf8c4baa870f327.svg",
+    "static/media/PrevButton.svg": "/forall/static/media/PrevButton.61bf0694e5563832bbd68fd60d7f99ad.svg",
+    "static/media/footerBackgroundImage.svg": "/forall/static/media/footerBackgroundImage.6791c25c89a1ee32dfdf.svg",
+    "static/media/backgroundImage.svg": "/forall/static/media/backgroundImage.77bb4976c1e0548c4c59.svg",
+    "static/media/Location.svg": "/forall/static/media/Location.71cd631a19837e2ae277d6a911523306.svg",
+    "main.5d5dae2b.css.map": "/forall/static/css/main.5d5dae2b.css.map",
+    "main.e3c5b03b.js.map": "/forall/static/js/main.e3c5b03b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5dae2b.css",
+    "static/js/main.e3c5b03b.js"
+  ]
+}
