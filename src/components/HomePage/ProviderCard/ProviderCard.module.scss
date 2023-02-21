@@ -1,0 +1,35 @@
+@import "../../../scss/variables";
+
+.providerCard {
+  display: block;
+  padding: 25px 20px;
+  text-align: center;
+  background-color: $cardBackground;
+  border-radius: 16px;
+  text-decoration: none;
+  .imageContainer {
+    overflow: hidden;
+    width: 100%;
+    height: 190px;
+    background-color: $imageCardBackground;
+    border-radius: 16px;
+    margin-bottom: 30px;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+    color: $textColor;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    height: 48px;
+  }
+}

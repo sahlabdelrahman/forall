@@ -1,0 +1,38 @@
+@import "../../scss/variables";
+
+.contentSection {
+  padding: 120px 0;
+  font-family: $textFont;
+  padding-top: 0 !important;
+
+  h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: $titlesColor;
+    margin-bottom: 15px;
+  }
+
+  p {
+    font-size: 25px;
+    font-weight: normal;
+    color: $textColor;
+    margin-bottom: 40px;
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 65px;
+    font-size: 25px;
+    font-weight: bold;
+    color: $textColorForButton;
+    // border: 1px solid $borderColorForButton;
+    border: none;
+    border-radius: 38px;
+    background: $linerGradient;
+  }
+
+  image {
+  }
+}

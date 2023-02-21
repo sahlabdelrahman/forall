@@ -1,0 +1,20 @@
+@import "../../../scss/variables";
+
+.providerContent {
+  padding: 270px 0 80px;
+  font-family: $textFont;
+
+  h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: $titlesColor;
+    margin-bottom: 15px;
+  }
+
+  p {
+    font-size: 25px;
+    font-weight: normal;
+    color: $textColor;
+    margin-bottom: 0px;
+  }
+}

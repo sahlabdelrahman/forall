@@ -1,0 +1,29 @@
+@import "../../../scss/variables";
+
+.providerCard {
+  padding: 25px 20px;
+  text-align: center;
+  background-color: $cardBackground;
+  border-radius: 16px;
+  width: 100%;
+  .imageContainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 190px;
+    background-color: $imageCardBackground;
+    border-radius: 16px;
+    margin-bottom: 30px;
+  }
+
+  h4 {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 0;
+    height: 30px;
+    border-radius: 16px;
+    height: 48px;
+
+    background-color: $imageCardBackground;
+  }
+}
